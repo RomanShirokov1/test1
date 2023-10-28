@@ -343,7 +343,6 @@ button {
         font-size: 20px;
     }
     .advantages_row {
-        position: relative;
         display: grid;
         grid-template-columns: repeat(2, 40%);
         grid-auto-rows: minmax(15px, auto);
